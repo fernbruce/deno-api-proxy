@@ -1,6 +1,6 @@
 # Deno API Proxy
 
-# [中文版本](README.MD)
+# [中文版本][english edition](README.MD)
 
 ### Author: Tech PaPaXia
 Find me on Bilibili, YouTube, TikTok, and WeChat Official Account under the same name. Please credit the author when sharing.
